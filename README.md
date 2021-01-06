@@ -19,7 +19,12 @@ A compiled repo of links to various online courses, resources, videos, etc.
 ## Theory
 [MIT Missing Semester](https://missing.csail.mit.edu/)\
 [MIT Electrical and CS](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)\
-[Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
+[Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)\
+
+[Go gRPC](https://www.learningcrux.com/course/grpc-golang-master-class-build-modern-api-microservices)\
+[VueJS](https://learning.shareappscrack.com/course/vuejs-the-complete-guide)\
+[Elasticsearch](https://www.freetutorials.ca/course/elasticsearch-6-and-elastic-stack-in-depth-and-hands-on)
+
 
 ## Learn by doing
 [Coding](https://leetcode.com/problemset/all/)\
