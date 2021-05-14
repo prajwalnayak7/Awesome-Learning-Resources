@@ -48,4 +48,10 @@ A compiled repo of links to various online courses, resources, videos, etc.
 
 ---
 
+# Aggregated list
+[Computer Science MOOCs](http://www.infocobuild.com/education/audio-video-courses/computer-science/computer-science.html)
+[Academic Torrents](https://academictorrents.com/browse.php?cat=7&sort_field=size&sort_dir=DESC)
+[Documentaries](https://ihavenotv.com/listofalldocumentaries)
+
+
 
